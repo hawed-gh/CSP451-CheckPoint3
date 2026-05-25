@@ -10,6 +10,7 @@
     "format:check": "prettier --check .",
     "format": "prettier --write .",
     "test": "jest --ci --coverage",
+    "audit:check": "npm audit --audit-level=moderate",
     "build": "node -e \"console.log('Build step OK')\""
   },
   "dependencies": {
