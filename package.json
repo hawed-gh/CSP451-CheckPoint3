@@ -14,7 +14,7 @@
     "build": "node -e \"console.log('Build step OK')\""
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "eslint": "^9.0.0",
