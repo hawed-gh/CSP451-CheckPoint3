@@ -1,8 +1,12 @@
+![CI](https://github.com/hawed-gh/CSP451-CheckPoint3/actions/workflows/ci.yml/badge.svg?branch=main)
+![CodeQL](https://github.com/hawed-gh/CSP451-CheckPoint3/actions/workflows/codeql.yml/badge.svg?branch=main)
+
 # CSP451 GitHub Actions Seed Repo
 
 Seed repository for GitHub Actions CI/CD exercise in CSP451 - Computer Systems Projects.
 
 ## Local setup
+
 
 1. Install Node.js (LTS recommended)
 2. Install deps:
