@@ -7,7 +7,6 @@ Seed repository for GitHub Actions CI/CD exercise in CSP451 - Computer Systems P
 
 ## Local setup
 
-
 1. Install Node.js (LTS recommended)
 2. Install deps:
    ```bash
